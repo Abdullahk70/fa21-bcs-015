@@ -4,7 +4,10 @@ import Button from './components/Button';
 
 function App() {
   return(
-   <Button/>
+   <div>
+    <h1>react</h1>
+    <Button/>
+   </div>
   );
 }
 
